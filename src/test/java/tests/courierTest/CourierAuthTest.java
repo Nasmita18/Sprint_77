@@ -103,3 +103,9 @@ public class CourierAuthTest {
         MatcherAssert.assertThat(message, equalTo("Учетная запись не найдена"));
     }
 }
+
+
+
+
+
+
